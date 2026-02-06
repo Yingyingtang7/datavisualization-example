@@ -1,0 +1,27 @@
+<svg width="900" height="520" viewBox="0 0 900 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="520" rx="30" fill="#FFF7F2"/>
+  <circle cx="146" cy="98" r="86" fill="#FEE4D8"/>
+  <circle cx="778" cy="434" r="98" fill="#FFE9DF"/>
+  <rect x="100" y="144" width="700" height="300" rx="24" fill="#FFFFFF" stroke="#F6D7C8"/>
+  <rect x="136" y="182" width="160" height="220" rx="16" fill="#2F343B"/>
+  <rect x="150" y="198" width="132" height="10" rx="5" fill="#F56423"/>
+  <rect x="150" y="218" width="106" height="8" rx="4" fill="#E2E8F0"/>
+  <rect x="150" y="238" width="120" height="8" rx="4" fill="#E2E8F0"/>
+  <circle cx="216" cy="300" r="34" fill="#F56423"/>
+  <path d="M204 286L231 300L204 314V286Z" fill="white"/>
+  <rect x="334" y="182" width="206" height="100" rx="16" fill="#F56423"/>
+  <rect x="356" y="208" width="164" height="12" rx="6" fill="white"/>
+  <rect x="356" y="230" width="124" height="10" rx="5" fill="#FFE7DB"/>
+  <rect x="334" y="300" width="206" height="102" rx="16" fill="#F8FAFC" stroke="#E2E8F0"/>
+  <rect x="356" y="324" width="164" height="12" rx="6" fill="#2F343B"/>
+  <rect x="356" y="347" width="140" height="9" rx="4.5" fill="#9AA4B2"/>
+  <rect x="356" y="366" width="120" height="9" rx="4.5" fill="#9AA4B2"/>
+  <rect x="566" y="182" width="200" height="220" rx="16" fill="#FFF3EC" stroke="#F6D7C8"/>
+  <circle cx="666" cy="242" r="36" fill="#FFFFFF" stroke="#F56423" stroke-width="4"/>
+  <path d="M652 242H680" stroke="#F56423" stroke-width="4" stroke-linecap="round"/>
+  <path d="M666 228V256" stroke="#F56423" stroke-width="4" stroke-linecap="round"/>
+  <rect x="602" y="296" width="128" height="10" rx="5" fill="#F56423"/>
+  <rect x="602" y="318" width="106" height="8" rx="4" fill="#B0B8C3"/>
+  <rect x="602" y="336" width="118" height="8" rx="4" fill="#B0B8C3"/>
+  <text x="120" y="470" fill="#2F343B" font-size="22" font-family="Arial">Technical Communication at Sam Houston State University</text>
+</svg>

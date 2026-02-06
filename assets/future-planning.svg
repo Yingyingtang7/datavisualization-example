@@ -1,0 +1,17 @@
+<svg width="900" height="320" viewBox="0 0 900 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="320" rx="24" fill="#FFF7F2"/>
+  <rect x="60" y="56" width="360" height="208" rx="18" fill="#FFFFFF" stroke="#F6D7C8"/>
+  <rect x="90" y="94" width="150" height="14" rx="7" fill="#2F343B"/>
+  <rect x="90" y="120" width="290" height="42" rx="10" fill="#FFF0E8"/>
+  <circle cx="112" cy="189" r="10" fill="#F56423"/>
+  <rect x="132" y="183" width="230" height="12" rx="6" fill="#A0A9B4"/>
+  <circle cx="112" cy="219" r="10" fill="#F56423"/>
+  <rect x="132" y="213" width="192" height="12" rx="6" fill="#A0A9B4"/>
+  <rect x="460" y="56" width="380" height="208" rx="18" fill="#FFFFFF" stroke="#F6D7C8"/>
+  <rect x="494" y="92" width="208" height="18" rx="9" fill="#F56423"/>
+  <rect x="494" y="124" width="300" height="14" rx="7" fill="#2F343B"/>
+  <rect x="494" y="150" width="260" height="12" rx="6" fill="#A0A9B4"/>
+  <rect x="494" y="171" width="240" height="12" rx="6" fill="#A0A9B4"/>
+  <rect x="494" y="202" width="160" height="36" rx="10" fill="#F56423"/>
+  <text x="523" y="225" fill="white" font-size="14" font-family="Arial">Apply Now</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg width="420" height="260" viewBox="0 0 420 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="420" height="260" rx="22" fill="#0B1020"/>
+  <rect x="20" y="20" width="380" height="220" rx="14" fill="#111827"/>
+  <text x="36" y="50" fill="#93C5FD" font-size="14" font-family="Arial">Mission: Restore Signal Tower</text>
+  <rect x="36" y="70" width="170" height="18" rx="9" fill="#1F2937"/>
+  <rect x="36" y="95" width="130" height="18" rx="9" fill="#1F2937"/>
+  <rect x="36" y="120" width="150" height="18" rx="9" fill="#1F2937"/>
+  <rect x="240" y="70" width="144" height="72" rx="10" fill="#374151"/>
+  <text x="253" y="97" fill="#FDE68A" font-size="13" font-family="Arial">Press E</text>
+  <text x="253" y="118" fill="#D1D5DB" font-size="12" font-family="Arial">Open control panel</text>
+  <rect x="36" y="170" width="348" height="50" rx="12" fill="#1E293B"/>
+  <text x="54" y="199" fill="#34D399" font-size="13" font-family="Arial">Skill unlocked: Clear UI copy boosts player retention +12%</text>
+</svg>
